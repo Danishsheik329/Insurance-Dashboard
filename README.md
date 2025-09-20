@@ -1,7 +1,7 @@
 # Car Insurance Data Analysis
 
 ##  Project Title
-Car Insurance Claims Analysis
+Car Insurance Data Analysis
 
 ##  Short Description
 This project analyzes car insurance policy and claims data to identify key risk factors, customer demographics, and claim patterns.  
