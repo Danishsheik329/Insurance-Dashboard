@@ -19,4 +19,4 @@ It uses SQL for data processing and Power BI for creating an interactive dashboa
 - **Claims by Coverage Zones** for regional insights  
 - **Interactive Power BI Dashboard** with filters and drill-down analysis  
 
-
+-- **https://github.com/Danishsheik329/Insurance-Dashboard/blob/main/Screenshot%202025-09-20%20191838.png
